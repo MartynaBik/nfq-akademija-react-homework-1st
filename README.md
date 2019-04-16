@@ -1,6 +1,6 @@
 # FE React namų darbas
 
-###Užduotis:
+### Užduotis:
 
 1. Gauti ir išvesti žanrų sąrašą puslapio viršuje
 2. Paspaudus ant vieno iš žanrų - pakeisti filmų sąrašą į šiam žanrui priklausančių filmų sąrašą
@@ -12,7 +12,7 @@
    Pasirinktis būtu išsaugota šiam filmui (keičiant žanrus neturi dingti pasirinktis)
 
 
-###Ppaildoma informacija:
+### Ppaildoma informacija:
 To start, clone this repo and run:
 1. `npm install` (install all needed dependencies)
 2. `npm start` (start our local development server)
